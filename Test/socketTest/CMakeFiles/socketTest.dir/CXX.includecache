@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ajackow/Workspace/socketTest/socketTest.cpp
+SocketServerLib.h
+/home/ajackow/Workspace/socketTest/SocketServerLib.h
+unistd.h
+-
+stdio.h
+-
+sys/socket.h
+-
+stdlib.h
+-
+netinet/in.h
+-
+string.h
+-
+
+include/SocketServerLib.h
+unistd.h
+-
+stdio.h
+-
+sys/socket.h
+-
+stdlib.h
+-
+netinet/in.h
+-
+string.h
+-
+

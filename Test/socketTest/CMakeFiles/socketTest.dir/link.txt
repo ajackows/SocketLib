@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/socketTest.dir/socketTest.cpp.o CMakeFiles/socketTest.dir/src/SocketServerLib.cpp.o  -o socketTest -rdynamic 
